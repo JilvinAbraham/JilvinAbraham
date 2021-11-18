@@ -12,7 +12,7 @@ I am a BTech CSE Graduate, currently working in a startup in DevOps role managin
 
 My LinkedIn profile:
 <p align="center">
-<a href="https://www.linkedin.com/in/jilvinabraham/"><p>Jilvin Abraham</p></a>
+<a href="https://www.linkedin.com/in/jilvinabraham/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" height="30"></a>
 
 
 
