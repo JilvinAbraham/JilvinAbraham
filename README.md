@@ -31,13 +31,13 @@ My LinkedIn profile:
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="30"></code>
 
 
-#### Backend/Server:
+### Backend/Server:
 
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="30"></code>
 <code><img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height="30"></code>  
 
 
-#### Database:
+### Database:
 
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" height="30"></code>
 <code><img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" height="30"></code>
