@@ -11,8 +11,8 @@
 I am a BTech CSE Graduate, currently working in a startup in DevOps role managing AWS resources, automating stuff, scripting, working with databases and managing release cycles.
 
 My LinkedIn profile:
-<p align="center">
-<a href="https://www.linkedin.com/in/jilvinabraham/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" height="10"></a>
+
+<a href="https://www.linkedin.com/in/jilvinabraham/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" height="30"></a>
 
 
 
