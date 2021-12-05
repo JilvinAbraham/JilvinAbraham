@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love eating, and gaming! Ping me at midnight and i will be there for a one on one match
 ## Bio
-I am a BTech CSE Graduate, currently working in a startup in DevOps role managing AWS resources, automating stuff, scripting, working with databases and managing release cycles.
+I am a B Tech CSE Graduate, currently working in a startup in DevOps role managing AWS resources, automating stuff, scripting, working with databases and managing release cycles.
 
 My LinkedIn profile:
 
