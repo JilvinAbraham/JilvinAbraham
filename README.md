@@ -41,7 +41,7 @@ My LinkedIn profile:
 <code><img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" height="30"></code>
 
 
-### Dev-Ops:
+### DevOps:
 
 <code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="30"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/2560px-Jenkins_logo_with_title.svg.png" height="30"></code>
