@@ -57,6 +57,7 @@ My LinkedIn profile:
 ## Experience
 * 🙇‍♂️ Software engineer Intern at LeadSquared
 * 🙇‍♂️ DevOps engineer at LeadSquared
+* 🙇‍♂️ DevOps engineer at BrowserStack
 
 
 
