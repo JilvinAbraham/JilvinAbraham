@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently into DevOps, AWS, Cloud Architecture, Scripting and Automation!
 - 👯 I’m looking to collaborate on open source projects, hackathons and competitions.
-- 💬 Ask me about AWS, Scripting, Powershell, Automation
+- 💬 Ask me about AWS, Scripting, Automation, Docker, Ansible, K8s, Terraform, Jenkins
 - 📫 How to reach me: jilvinthomas@gmail.com
 - 🤝 Connect with me: +91 7034669472
 - 😄 Pronouns: He/Him
@@ -22,8 +22,6 @@ My LinkedIn profile:
 
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="30"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="30"></code>
-
 
 ### Web Developement
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="30"></code>
