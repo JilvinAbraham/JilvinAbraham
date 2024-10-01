@@ -8,7 +8,10 @@
 - 😄 Pronouns: He/Him
   
 ## Bio
-I am a B Tech CSE Graduate, currently working in a startup in DevOps role managing AWS resources, automating stuff, scripting, working with databases and managing release cycles.
+
+I'm a DevOps Engineer at BrowserStack, specializing in bridging the gap between development and operations to enhance the continuous integration and delivery pipeline. With expertise in cloud platforms like AWS, I focus on containerization and orchestration using Docker and Kubernetes. I'm well-versed in CI/CD tools such as Jenkins, and I implement Infrastructure as Code with Terraform and Ansible. Proficient in scripting languages like Python and Bash, I also prioritize monitoring and logging through tools like Prometheus, Grafana, and the ELK Stack.
+
+Beyond my technical skills, I pride myself on being a strong collaborator with excellent communication abilities, fostering a positive team environment. I thrive in fast-paced settings, adapting quickly to new technologies and methodologies while efficiently managing multiple projects. When I'm not automating workflows or optimizing systems, I enjoy learning about the latest trends in DevOps and cloud computing, and exploring innovative solutions. Let’s connect and build amazing things together!
 
 My LinkedIn profile:
 
