@@ -61,7 +61,7 @@ My LinkedIn profile:
 * 🙇‍♂️ DevOps Engineer at BrowserStack
 
 [![Jilvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JilvinAbraham)](https://github.com/JilvinAbraham/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JilvinAbraham&hide=css,html&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JilvinAbraham&hide=css,html&langs_count=3)
 
 
 
