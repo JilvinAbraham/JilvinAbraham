@@ -13,10 +13,7 @@ I'm a DevOps Engineer at BrowserStack, specializing in bridging the gap between 
 
 Beyond my technical skills, I pride myself on being a strong collaborator with excellent communication abilities, fostering a positive team environment. I thrive in fast-paced settings, adapting quickly to new technologies and methodologies while efficiently managing multiple projects. When I'm not automating workflows or optimizing systems, I enjoy learning about the latest trends in DevOps and cloud computing, and exploring innovative solutions. Let’s connect and build amazing things together!
 
-My LinkedIn profile:
-
-<a href="https://www.linkedin.com/in/jilvinabraham/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" height="30"></a>
-
+My LinkedIn profile: https://www.linkedin.com/in/jilvinabraham/
 
 
 ## Skilled in
