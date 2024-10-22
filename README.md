@@ -26,9 +26,8 @@ My LinkedIn profile: https://www.linkedin.com/in/jilvinabraham/
 
 
 
-### Backend/Server:
+### Backend
 
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="30"></code>
 <code><img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height="30"></code>  
 
 
