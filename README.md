@@ -38,7 +38,7 @@ My LinkedIn profile: https://www.linkedin.com/in/jilvinabraham/
 ### Database:
 
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" height="30"></code>
-<code><img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" height="30"></code>
+<code><img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" height="30"></code>
 
 
 ### DevOps:
