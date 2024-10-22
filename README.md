@@ -43,8 +43,8 @@ My LinkedIn profile: https://www.linkedin.com/in/jilvinabraham/
 
 ### DevOps:
 
-<code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="30"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/2560px-Jenkins_logo_with_title.svg.png" height="30"></code>
+<code><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="30"></code>
+<code><img src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=iGCCE2iEmh2u&format=png&color=000000" height="30"></code>
