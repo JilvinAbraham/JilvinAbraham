@@ -43,7 +43,6 @@ My LinkedIn profile: https://www.linkedin.com/in/jilvinabraham/
 <code><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" height="30"></code>
-<code><img src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=iGCCE2iEmh2u&format=png&color=000000" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" height="30"></code>
