@@ -50,9 +50,6 @@ My LinkedIn profile: https://www.linkedin.com/in/jilvinabraham/
 <code><img src="https://img.icons8.com/?size=100&id=9uVrNMu3Zx1K&format=png&color=000000" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=34886&format=png&color=000000" height="30"></code>
-<code><img src="https://img.icons8.com/?size=100&id=FRj9iWYkLpyO&format=png&color=000000" height="30"></code>
-
-
 
 
 ## Experience
