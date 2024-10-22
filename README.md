@@ -37,18 +37,6 @@ My LinkedIn profile: https://www.linkedin.com/in/jilvinabraham/
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000" height="30"></code>
 
-
-### Backend
-
-<code><img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height="30"></code>  
-
-
-### Database
-
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" height="30"></code>
-<code><img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" height="30"></code>
-
-
 ## Experience
 * 🙇‍♂️ Software Engineer Intern at LeadSquared
 * 🙇‍♂️ DevOps Engineer at LeadSquared
