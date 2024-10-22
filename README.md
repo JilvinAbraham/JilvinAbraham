@@ -1,6 +1,6 @@
 # (Hi) I am Jilvin Abraham 👋
 
-- 🌱 “I’m diving deep into the dynamic realms of DevOps, harnessing the power of AWS, crafting robust Cloud Architectures, and mastering the art of Scripting and Automation!”
+- 🌱 I’m diving deep into the dynamic realms of DevOps, harnessing the power of AWS, crafting robust Cloud Architectures, and mastering the art of Scripting and Automation!
 - 👯 I’m looking to collaborate on open source projects, hackathons and competitions.
 - 💬 Ask me about AWS, Scripting, Automation, Docker, Ansible, K8s, Terraform, Jenkins
 - 📫 How to reach me: jilvinthomas@gmail.com
