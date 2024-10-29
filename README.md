@@ -16,7 +16,7 @@ Beyond my technical skills, I pride myself on being a strong collaborator with e
 My LinkedIn profile: https://www.linkedin.com/in/jilvinabraham/
 
 
-## Skilled in
+## Skills
 
 ### DevOps
 
