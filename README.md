@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on open source projects, hackathons and competitions.
 - 💬 Curious about AWS, Docker, Ansible, K8s, Terraform and Jenkins? Let’s dive into the tools that drive innovation!
 - 📫 How to reach me: jilvinthomas@gmail.com
-- 🤝 Connect with me: +91 7034669472
+- 🤝 Connect with me: +91 - 7034669472
 - 😄 Pronouns: He/Him
   
 ## Bio
