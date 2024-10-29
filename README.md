@@ -2,7 +2,7 @@
 
 - 🌱 Exploring the exciting world of DevOps, AWS, Cloud Architecture and Automation!
 - 👯 I’m looking to collaborate on open source projects, hackathons and competitions.
-- 💬 Curious about AWS, Automation, Docker, Ansible, K8s, Terraform, and Jenkins? Let’s dive into the tools that drive innovation!
+- 💬 Curious about AWS, Docker, Ansible, K8s, Terraform, and Jenkins? Let’s dive into the tools that drive innovation!
 - 📫 How to reach me: jilvinthomas@gmail.com
 - 🤝 Connect with me: +91 7034669472
 - 😄 Pronouns: He/Him
