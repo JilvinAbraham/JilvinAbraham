@@ -39,7 +39,7 @@ My LinkedIn profile: https://www.linkedin.com/in/jilvinabraham/
 
 ## Experience
 * 🙇‍♂️ Software Engineer Intern at LeadSquared
-* 🙇‍♂️ DevOps Engineer at LeadSquared
+* 🙇‍♂️ Software Engineer at LeadSquared
 * 🙇‍♂️ DevOps Engineer at BrowserStack
 
 
