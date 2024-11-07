@@ -31,7 +31,7 @@ My LinkedIn profile: https://www.linkedin.com/in/jilvinabraham/
 <code><img src="https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=34886&format=png&color=000000" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000" height="30"></code>
-<code><img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" height="30"></code>
+<code><img src="https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000" height="30"></code>
 
 
 ### Languages
