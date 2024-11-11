@@ -39,6 +39,8 @@ My LinkedIn profile: https://www.linkedin.com/in/jilvinabraham/
 <code><img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" height="30"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="30"></code>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 ## Experience
 * 🙇‍♂️ Software Engineer Intern at LeadSquared
 * 🙇‍♂️ Software Engineer at LeadSquared
