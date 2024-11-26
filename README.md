@@ -43,9 +43,6 @@ My LinkedIn profile: https://www.linkedin.com/in/jilvinabraham/
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="30"></code>
 
 ## Experience
-* 🙇‍♂️ Software Engineer Intern at LeadSquared
-* 🙇‍♂️ Software Engineer at LeadSquared
 * 🙇‍♂️ DevOps Engineer at BrowserStack
-
-
-
+* 🙇‍♂️ Software Engineer at LeadSquared
+* 🙇‍♂️ Software Engineer Intern at LeadSquared
