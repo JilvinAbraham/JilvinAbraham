@@ -33,13 +33,12 @@ Beyond my technical skills, I pride myself on being a strong collaborator with e
 
 
 
-
 ### Languages
 
 <code><img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" height="30"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="30"></code>
 
 ## Experience
-* 🙇‍♂️ DevOps Engineer at BrowserStack
-* 🙇‍♂️ Software Engineer at LeadSquared
-* 🙇‍♂️ Software Engineer Intern at LeadSquared
+* 👨‍💻 DevOps Engineer at BrowserStack
+* 👨‍💻 Software Engineer at LeadSquared
+* 👨‍💻 Software Engineer Intern at LeadSquared
