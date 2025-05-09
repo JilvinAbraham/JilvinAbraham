@@ -15,7 +15,7 @@ Beyond my technical skills, I pride myself on being a strong collaborator with e
 
 ## Skills
 
-### DevOps
+### DevOps Tools
 
 <code><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="30"></code>
 <code><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="30"></code>
