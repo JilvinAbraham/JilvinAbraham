@@ -25,7 +25,7 @@ Beyond my technical skills, I pride myself on being a strong collaborator with e
 <code><img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=9uVrNMu3Zx1K&format=png&color=000000" height="30"></code>
-<img align="right" alt="Coding" width="100"  src="https://komarev.com/ghpvc/?username=JilvinAbraham&color=brightgreen">
+
 <img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <code><img src="https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" height="30"></code>
