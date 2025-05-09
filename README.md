@@ -31,10 +31,8 @@ Beyond my technical skills, I pride myself on being a strong collaborator with e
 <code><img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000" height="30"></code>
 <code><img src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" height="30"></code>
+<img align="right" alt="Coding" width="100"  src="https://komarev.com/ghpvc/?username=JilvinAbraham&color=brightgreen">
 
-
-
-<code><img align="right" alt="Coding" width="100"  src="https://komarev.com/ghpvc/?username=JilvinAbraham&color=brightgreen"></code>
 ### Languages
 
 <code><img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" height="30"></code>
