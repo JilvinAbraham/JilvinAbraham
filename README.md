@@ -9,7 +9,7 @@
   
 ## Bio
 
-I'm a DevOps Engineer at BrowserStack, specializing in CI/CD, cloud infrastructure (AWS), and container orchestration with Docker and Kubernetes. I use tools like Jenkins, Terraform, and Ansible to automate workflows and manage infrastructure as code. Proficient in Python and Bash, I also focus on monitoring and logging using Prometheus, Grafana, and the ELK Stack.
+I'm a DevOps Engineer at BrowserStack, specializing in CI/CD, cloud infrastructure (AWS) and container orchestration with Docker and Kubernetes. I use tools like Jenkins, Terraform and Ansible to automate workflows and manage infrastructure as code. Proficient in Python and Bash, I also focus on monitoring and logging using Prometheus, Grafana and the ELK Stack.
 
 I’m a strong collaborator with a passion for learning and adapting in fast-paced environments.
 
