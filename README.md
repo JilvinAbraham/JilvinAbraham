@@ -40,5 +40,6 @@ I’m a strong collaborator with a passion for learning and adapting in fast-pac
 
 ## Experience
 * 👨‍💻 DevOps Engineer at BrowserStack
-* 👨‍💻 Software Engineer at LeadSquared
+* 👨‍💻 Senior DevOps Engineer at LeadSquared
+* 👨‍💻 DevOps Engineer at LeadSquared
 * 👨‍💻 Software Engineer Intern at LeadSquared
