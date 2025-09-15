@@ -16,6 +16,8 @@ I’m a strong collaborator with a passion for learning and adapting in fast-pac
 ## Skills
 [![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=plastic&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/6485be8fec96364e1d2fe320?variant=light&roadmaps=)](https://roadmap.sh)
+
 ### DevOps Tools
 
 <code><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="30"></code>
