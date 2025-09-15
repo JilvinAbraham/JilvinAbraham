@@ -14,6 +14,7 @@ I'm a DevOps Engineer at BrowserStack, specializing in CI/CD, cloud infrastructu
 I’m a strong collaborator with a passion for learning and adapting in fast-paced environments.
 
 ## Skills
+[![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=plastic&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 
 ### DevOps Tools
 
